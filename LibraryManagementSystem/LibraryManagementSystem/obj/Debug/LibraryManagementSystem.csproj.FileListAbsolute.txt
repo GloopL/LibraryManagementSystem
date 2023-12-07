@@ -1,0 +1,252 @@
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\ZstdSharp.dll
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Choices.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Student1.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Admin.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInterface.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentNewAcc.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminInteracee.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_ADINTERFACEE.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOK.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBOOK.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CAS_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CABE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CICS_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CTE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.COE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CIT_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CABE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CAS_BOOKScs.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CICS_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CIT_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_COE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CTE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BB_BOOKS_LIST.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CIT_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_COE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CAS_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CTE_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CICS_BOOKS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CABE_BOOKScs.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_BOOKS_LIST_ADMIN.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CTE.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_COE.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CIT.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CICS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CABE.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CAS.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_RETURNED_BOOKS_LIST.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CTE_RETURNED.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_COE_RETURNED.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CIT_RETURNED.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CICS_RETURNED.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CABE_RETURNED.resources
+C:\Users\63927\OneDrive\Desktop\FINAL PROJECT OOP\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CAS_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\ZstdSharp.dll
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminInteracee.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_BOOKS_LIST_ADMIN.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CABE.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CAS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CICS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CIT.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_COE.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CTE.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BB_BOOKS_LIST.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Choices.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOK.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CABE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CAS_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CICS_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CIT_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.COE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CTE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CABE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CAS_BOOKScs.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CICS_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CIT_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_COE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CTE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBOOK.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Student1.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Admin.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInterface.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentNewAcc.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_ADINTERFACEE.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CABE_BOOKScs.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CAS_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CICS_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CIT_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_COE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CTE_BOOKS.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CABE_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CAS_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CICS_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CIT_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_COE_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CTE_RETURNED.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_RETURNED_BOOKS_LIST.resources
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\quixi\Downloads\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\ZstdSharp.dll
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.pdb
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Google.Protobuf.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\K4os.Hash.xxHash.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\MySql.Data.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Buffers.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.IO.Pipelines.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Memory.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminInteracee.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_BOOKS_LIST_ADMIN.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CABE.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CAS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CICS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CIT.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_COE.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BBOOKS_SECTION_ADMIN.BB_CTE.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BB_BOOKS_LIST.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Form1.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Choices.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOK.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CABE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CAS_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CICS_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CIT_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.COE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LIBBOOKSSECTION.CTE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CABE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CAS_BOOKScs.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CICS_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CIT_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_COE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBBOOKS_SECTION.ST_CTE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.STBOOK.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Student1.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Admin.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInterface.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentNewAcc.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_ADINTERFACEE.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CABE_BOOKScs.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CAS_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CICS_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CIT_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_COE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_BORROWED_BOOKS.BB_CTE_BOOKS.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CABE_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CAS_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CICS_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CIT_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_COE_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_CTE_RETURNED.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ST_RETURNED_BOOKS.ST_RETURNED_BOOKS_LIST.resources
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Files\LibraryManagementSystem-20231130T055004Z-001\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
